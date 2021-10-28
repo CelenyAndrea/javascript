@@ -1,2 +1,2 @@
-# javascript
+# JavaScript
 Ejercicios realizados con JavaScript
