@@ -19,11 +19,7 @@ function calcularMediana(lista) {
     const mitadLista = parseInt(lista.length / 2);
     //Evaluar si la lista es par o impar
     function esPar(numerito) {
-        if (numerito % 2 === 0) {
-            return true;
-        } else {
-            return false;
-        }
+        return (numerito % 2 === 0);
     }
     
     let mediana;
